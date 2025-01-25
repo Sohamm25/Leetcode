@@ -1,6 +1,6 @@
 # Problem: Check if an array contains any duplicate elements.
 # - Return True if any value appears at least twice in the array.
-# - Otherwise, return False.
+# - Otherwise, return False.  
 
 # Solution 1: Using a set to detect duplicates
 # - Time Complexity: O(n), where n is the length of nums.
